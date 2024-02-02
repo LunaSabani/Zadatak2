@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Uspeh ImePrezime="Petar Petrovic">
+	TacniOdgovori = ”12”
+	NetacniOdgovori = ”3” 
+</Uspeh>
+<Uspeh ImePrezime="Zora Zoric"
+	TacniOdgovori = ”10”
+	NetacniOdgovori = ”5” 
+</Uspeh>
+		<Uspeh ImePrezime=“Mika Mikic“
+		 TacniOdgovori=”14”
+		 NetacniOdgovori = ”1” >
+			</Uspeh>
+			<Uspeh ImePrezime=“Milan Petrovic“
+			 TacniOdgovori=”15”
+			 NetacniOdgovori = ”0” >
+				</Uspeh>
+				<Uspeh ImePrezime=“Sanja Savić“
+				 TacniOdgovori=”14”
+				NetacniOdgovori = ”1” >
+		</Uspeh>
+				
